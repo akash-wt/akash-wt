@@ -2,11 +2,13 @@
 <h3 align="center">- Software Engineer passionate about creating innovative solutions.</h3>
 
 
-<h4>- 🔭 I’m currently working on :</h4> Backend
+<h5>- 🔭 I’m currently working on :</h5> Backend
 
-<h4>- 🌱 I’m currently learning :</h4> MERN Stack
+<h5>- 🌱 I’m currently learning :</h5> MERN Stack
+<br/>
 
-<h4>- 🏠How to reach me :</h4> **works.akashpatel@gmail.com**
+ - 🏠How to reach me : **works.akashpatel@gmail.com**
+   
 
 <h3 align="left"> 🌐 Socials:</h3>
 <p align="left">
@@ -20,7 +22,9 @@
 <h3>📊 GitHub Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-wt&show_icons=true&locale=en&layout=compact" alt="akash-wt" /></p>
 
+<br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akash-wt&show_icons=true&locale=en" alt="akash-wt" /></p>
-
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akash-wt&theme=dark" alt="akash-wt" /></p>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-wt&label=Profile%20views&color=0e75b6&style=plastic" alt="akash-wt" /> </p>
