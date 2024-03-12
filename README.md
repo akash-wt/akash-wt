@@ -2,12 +2,12 @@
 <h3 align="center">- Software Engineer passionate about creating innovative solutions.</h3>
 
 
-<h5>- 🔭 I’m currently working on :</h5> Backend
+- 🔭 I’m currently working on : Backend
 
-<h5>- 🌱 I’m currently learning :</h5> MERN Stack
-<br/>
+- 🌱 I’m currently learning : MERN Stack
 
- -🏠How to reach me : **works.akashpatel@gmail.com**
+ -🏠How to reach me :
+**works.akashpatel@gmail.com**
    
 
 <h3 align="left"> 🌐 Socials:</h3>
