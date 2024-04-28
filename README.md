@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning : MERN Stack
 
-- 🏠 How to reach me :
+
 **works.akashpatel@gmail.com**
    
 
